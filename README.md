@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on my Web 3 website.
 - 📫 How to reach me https://wa.me/message/IVRM2Y76SJGKF1
 
-WhatsApp Business is an app built for small business owners. With the app, you can create a business profile and easily connect with customers.
 
 <!---
 EvertM985/EvertM985 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
